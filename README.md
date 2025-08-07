@@ -16,7 +16,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia, código limpo e b
 
 ## 📚 Últimos projetos:
 
-- [Sistema de Postagens com Autor e Comentários](https://github.com/LLucaaa/exercicio-19)  
+- [Sistema de Postagens com Autor e Comentários](https://github.com/lucaslimajs/mini-blog-js)  
   → Projeto orientado a objetos com classes em JavaScript, incluindo comentários, autores e posts. Simples, didático e com boas práticas!
 
 ---
