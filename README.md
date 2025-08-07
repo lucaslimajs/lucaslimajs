@@ -18,6 +18,12 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia, código limpo e b
 
 - [Sistema de Postagens com Autor e Comentários](https://github.com/lucaslimajs/mini-blog-js)  
   → Projeto orientado a objetos com classes em JavaScript, incluindo comentários, autores e posts. Simples, didático e com boas práticas!
+  
+- [📚 JS Bookstore](https://github.com/lucaslimajs/js-bookstore)  
+  → Sistema completo de livraria feito com **JavaScript puro e POO**.  
+  Gerencia **usuários**, **autores**, **livros**, **pôsteres** e **pedidos**, com controle de estoque e simulação de banco de dados em memória.
+
+
 
 ---
 
